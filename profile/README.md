@@ -1,45 +1,40 @@
-# Welcome to Stag AI
+# stag.ai — the decentralized AI building collective
 
-**Empowering talent. Building intelligent solutions.**
+**Talent is everywhere. Opportunity isn't.**
 
-Stag AI is a global software and AI development collective with operations in the UK and India. We build intelligent, scalable products while fostering opportunities for skilled freelancers and part-time professionals.
+We replaced buzzwords with builders. Stag is a community-powered AI ecosystem
+where engineers in Kochi and London pull from the same repositories, compile to
+the same clouds, and ship the same production systems. Real projects, public
+commits, no slide decks.
 
-## 🌍 Who We Are
+→ **[www.stag-ai.com](https://www.stag-ai.com)** — start at the manifesto.
 
-- **Stag AI Ltd (UK)** – London-based AI consultancy and product studio building scalable AI tools and digital platforms for businesses.
-- **StaggerHub Pvt Ltd (India)** – Kerala-based talent collective and engineering hub supporting open-source initiatives, client projects, and community upskilling.
+## // what we build
 
-Together, we create impactful tech—while growing a global community of developers, designers, and AI engineers.
+Real systems for real organizations — AI & ML pipelines, RAG and semantic
+search, custom software, cloud & DevOps — plus open-source tooling from the
+collective.
 
-## 💡 What We Do
+- [Case studies](https://www.stag-ai.com/case-studies) — what we shipped, and what almost broke.
+- [Signals](https://www.stag-ai.com/signals) — field notes and dispatches from builders.
+- [The ecosystem](https://www.stag-ai.com/ecosystem) — how work routes through the collective.
 
-- 🧠 AI & ML Development  
-- 🛠️ Custom Software Solutions  
-- 🔐 Cloud & DevOps Engineering  
-- 🧑‍💻 Freelance & Community Projects  
-- 📦 Open Source Tools and Libraries  
+## // who's behind it
 
-We work on real-world business tools (like HRMS, PharmaTech, RAG systems, and AI assistants) and open-source utilities for the developer community.
+- **Stag AI Ltd (UK)** — London-based AI consultancy and product studio.
+- **StaggerHub Pvt Ltd (India)** — Kerala-based engineering hub and talent collective ([staggerhub.ai](https://www.staggerhub.ai/)).
 
-## 🌱 Our Mission
+Same repositories. Same compilers. Every postcode.
 
-To bridge the gap between skill and opportunity—by empowering talent through project-based learning, mentorship, and global tech exposure.
+## // join
 
-## 🤝 Join the Community
+The founding cohort is forming. Self-taught builders, freelancers, students,
+and people with weird ideas: [join the collective](https://www.stag-ai.com/join).
+Organizations with something real to build: [start a project](https://www.stag-ai.com/contact).
 
-We collaborate with:
-- Freelancers, students, and part-time professionals
-- Businesses seeking custom software and AI solutions
-- Contributors to open-source tools under the StaggerHub collective
+## // contact
 
-If you're passionate about tech, AI, or making an impact—join us.
+- admin@stag-ai.com
+- info@staggerhub.ai
 
-## 📫 Get in Touch
-
-- 🌐 [stag.ai](https://www.stag-ai.com)
-- 🌐 [staggerhub.ai](https://www.staggerhub.ai/)
-- 📬 admin@stag-ai.com
-- 📬 info@staggerhub.ai
-
----
-> *Made with ❤️ by the Stag AI and StaggerHub community.*
+> you don't need permission to build. you never did.
